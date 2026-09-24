@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://biscuitlogic.com">Biscuit Logic</a> ·
+  <a href="https://matthewjameswatkins1978-cyber.github.io/Toolglass">Toolglass magazine</a> ·
   <a href="mailto:matthewjameswatkins1978@gmail.com">Email</a> ·
   <a href="https://github.com/matthewjameswatkins1978-cyber">GitHub</a>
 </p>
