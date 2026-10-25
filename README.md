@@ -23,6 +23,8 @@
 
 **Biscuit Logic** is the umbrella for my work: an independent creative technology studio spanning software, experiments and music.
 
+I'm a musician as well as a software builder. Some projects are practical tools; others are instruments, visual experiments, or attempts to give humans and AI a more useful shared workspace.
+
 I work on both sides of the human–AI boundary: making AI easier for people to work with, and making the systems around agents easier, safer and more reliable for them to operate in. The recurring concerns are human judgement, visible provenance, explicit authority and less wasted motion in the agent harness.
 
 ## Selected work
@@ -31,6 +33,8 @@ I work on both sides of the human–AI boundary: making AI easier for people to 
 - **[Threadmoth](https://github.com/matthewjameswatkins1978-cyber/Threadmoth)** — Source-preserving, deterministic file changes for AI coding agents.
 - **[Tethers](https://github.com/matthewjameswatkins1978-cyber/tethers-lang)** — A typed, deterministic boundary between intent and real-world actions.
 - **[Lantern Keeper](https://github.com/matthewjameswatkins1978-cyber/lantern-keeper)** — Local-first AI memory that preserves evidence and keeps knowledge separate from permission.
+- **[Zearo](https://github.com/matthewjameswatkins1978-cyber/zearo)** — A playable, Rust-first eight-track groovebox prototype for capturing musical ideas.
+- **[Specimen](https://github.com/matthewjameswatkins1978-cyber/Specimen)** — A native typography and poster-making studio built with Hamesh.
 - **[Toolglass](https://github.com/matthewjameswatkins1978-cyber/Toolglass)** — An evidence-led publication about useful software and the tools around it.
 - **[Telltail](https://github.com/matthewjameswatkins1978-cyber/Telltail)** — A test lab that records and evaluates how AI workers handle real jobs.
 
